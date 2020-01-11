@@ -1,0 +1,102 @@
+
+#title {
+  background-color: #ff4c68;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+
+}
+
+
+h1{
+   font-family: 'Anton', sans-serif;
+   font-size: 3rem;
+   line-height: 1.5;
+
+}
+
+.Download-button{
+
+    margin: 5% 3% 5% 0
+
+}
+
+.title-img{
+    width:80%;
+
+
+}
+
+
+#features{
+
+   padding: 7% 15%;
+
+}
+.feature-box{
+
+   text-align: center;
+   color: #1b262c;
+   font-family: 'Anton', sans-serif;
+
+ }
+
+ .icone {
+    color: #e32249;
+    margin-bottom: 1rem;
+ }
+
+ #testimonials {
+   padding: 7% 15%;
+   text-align: center;
+   background-color: #ff4c68;
+   color: #1b262c;
+   font-family: 'Bitter', serif;
+ }
+
+ .hello {
+   width: 20%;
+   border-radius: 100%;
+ }
+
+ #press{
+   background-color: #ff4c68;
+ }
+
+ .logos {
+        width: 20%;
+        margin: 2%;
+      }
+.testimonial-image{
+
+  width: 20%;
+  border-radius: 100%;
+
+}
+.carousel-inner{
+  padding: 7% 15%;
+  
+}
+
+#pricing{
+  padding: 100px;
+}
+
+.asdf {
+  background-color: #ff4c68;
+  text-align: center;
+  font-size: 2rem;
+}
+
+h3{
+  font-family: 'Anton', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+
+   }
+#footer {
+    text-align: center;
+    background-color: #1b262c;
+    color: white;
+}
